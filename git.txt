@@ -1,0 +1,4 @@
+Git master file. 
+git init to intialise the git repository 
+git clone <url> to copy and existing repository to local machine. 
+
